@@ -1,0 +1,13 @@
+    {
+        "compilerOptions": {
+            "module": "commonjs",
+            "emitDecoratorMetadata":true,
+            "target":"es5"
+        },
+        "files": [
+            "list.ts",
+            "ChatThread.ts",
+            "typings/angular2/angular2.d.ts",
+            "chatwindow.d.ts"
+        ]
+    }
